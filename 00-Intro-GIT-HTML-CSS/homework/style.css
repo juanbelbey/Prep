@@ -21,3 +21,10 @@ img {
     width: 400px;
 
 }
+div {
+    display:flex;
+    justify-content: center;
+}
+html {
+    background-image: url("https://barrabrava.net/img/barras-bravas/la-barra-de-la-bomba-union-de-santa-fe/la-barra-de-la-bomba-union-de-santa-fe-31-141310-barrabrava-net.jpg");
+}
