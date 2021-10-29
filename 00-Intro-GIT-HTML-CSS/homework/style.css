@@ -5,10 +5,19 @@ img {
     height: 600px;
     width: 500px;
     border: 3px;
-    padding: 10px;
+    border-color: chartreuse;
+    border-style: groove;
+    padding: 50px;
     background-color: burlywood;
 }
 #spanID {
-    font-size: 12px;
+    font-size: 25px;
     margin: 50px;
+}
+h1 {
+    color: blueviolet;
+}
+img {
+    width: 400px;
+
 }
