@@ -147,6 +147,7 @@ for(var i=0; i<10; i++){
 // Para agregar datos tmb se puede:
 // Juancho[hobbies]= 'Tenis' o Juancho.hobbies= 'Tenis'
 // consolo.table[]
+//no se puede usar punto cuando no sé el nombre de la propiedad que voy a invocar, cuando es un metodo
 
 
 function continueStatement(numero) {
